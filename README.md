@@ -6,5 +6,5 @@ Data transformation and machine learning will be used to create a model that wil
 
 The data for this model is fairly simplified as it has very few missing pieces. The raw data consists of a training dataset with the features listed above and their corresponding salaries. Twenty percent of this training dataset was split into a test dataset with corresponding salaries so accuracy and error of the model can be determined.
 
-There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data.
+There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data
 
